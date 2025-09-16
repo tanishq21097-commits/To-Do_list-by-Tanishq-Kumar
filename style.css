@@ -9,7 +9,7 @@
     width: 100%;
     min-height: 100vh;
     padding: 10px;
-    background-image: url(minecraft-10th-5120x2880-23769.jpg);
+    background-image: url(wolf-moon-minimalist-digital-art-animal-8k-wallpaper-uhdpaper.com-460@5@c.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -18,7 +18,8 @@
 .todo-app {
     width: 100%;
     max-width: 540px;
-    background: #68d3f3;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(5px);
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
